@@ -24,7 +24,7 @@ This project addresses that risk by implementing Azure Bastion as a controlled r
 
 The architecture illustrates the Azure Virtual Network, separate VM and Bastion subnets, NSG rules, and secure remote access flow.
 
-![Azure Bastion Secure VM Architecture](architecture/azure-network-architecture.png)
+![Azure Bastion Secure VM Architecture](https://github.com/Femi49/Azure-CloudSecurity-Hardening-/blob/main/Secure%20Azure%20VM%20Access%20Architecture.png)
 
 ## Technologies Used
 
